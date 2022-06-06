@@ -1,0 +1,24 @@
+.addbutton{
+    padding-left: 30%;
+}
+.but{
+    width: 50%;
+    font-size: 20px;
+}
+.formsty{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+    background-color: rgba(0, 0, 0, 0.884);
+    color: beige;
+}
+.grp{
+    padding-left: 3%;
+}
+.form-control:hover{
+    border-bottom: 2px solid rgb(211, 130, 64);
+}
+.imgstyle{
+    padding-top: 5rem;
+    padding-left: 3rem;
+}
